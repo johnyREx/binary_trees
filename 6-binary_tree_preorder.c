@@ -2,9 +2,9 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_preorder - Perform Pre-order traversal 
+ * binary_tree_preorder - Perform Pre-order traversal
  * @tree: Pointer to the root
- * #func: Poinyter to a function 
+ * @func: Pointer to a function
  * Return: No return
  */
 
